@@ -1,0 +1,18 @@
+.NavbarColor {
+  box-shadow: 0 4px 2px -2px #d3d3d3;
+}
+
+.useFont {
+  font-family: 'navbarFont';
+}
+
+.register {
+  background-color: rgb(38, 110, 110);
+  border-radius: 5px;
+  color: white;
+}
+
+@font-face {
+  font-family: navbarFont;
+  src: url('./fonts/Proxima-Nova-Light.otf') format('opentype');
+}
